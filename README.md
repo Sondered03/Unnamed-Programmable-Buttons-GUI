@@ -26,7 +26,7 @@ Edit the .pyw file and change the button_list values with the desired button nam
 
     ['Button name', 'directory or executable', 'Tooltip description'],
 
-2) Change optional desired parameters underneath the list to customize the button attributes (columns per row)
+2) Change optional desired parameters underneath the list to customize the button attributes such as colors, button dimensions, size, columns, etc. 
 
 
 # Examples
