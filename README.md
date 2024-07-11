@@ -12,8 +12,8 @@ Can input:
 - Full directories such as 'C:\ users\some music file.ogg'     or   '/usr/txt_document.txt'
 
 Dependencies: 
-Tkinter (pip install tk)
-Tkinter tooltips (pip install tkinter-tooltip)
+- Tkinter (pip install tk)
+- Tkinter tooltips (pip install tkinter-tooltip)
 
 # Instructions: 
 Edit the Main.pyw file 
