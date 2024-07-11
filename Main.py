@@ -1,7 +1,7 @@
 """ 
 Unnamed Programmable Buttons GUI
 Version 0.5, July 2024
-Programmed by CAscii
+Programmed by Sondered03
 
 Dependencies: 
 Tkinter (pip install tk)
@@ -36,12 +36,11 @@ Does not support scripts. You can get around this by making a bat/bash or python
 # Buttons
 button_list = [
     #[Name , Directory, Description],
-    ['Notepad', 'notepad.exe', 'Opens Notepad.exe'],
-    ['Cmd', 'cmd.exe'],
-    ['Do thing', '',],
-    ['Open File', ''],
+    ['Notepad', 'notepad.exe', 'Opens Notepad'],
+    ['Cmd', 'cmd.exe', 'Opens The Command Prompt'],
     ['Open directory', 'C:']
-
+    ['Do thing', '',],
+    ['Open File', '',],
 ]
 
 # Number of buttons in a row.
