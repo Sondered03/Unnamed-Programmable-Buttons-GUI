@@ -8,23 +8,25 @@ Scales infinitely based on how many buttons you list.
 
 ----
 Can input: 
-- Executables: 'notepad.exe'
-- Full directories: 'C:\ users\some music file.ogg'     or   '/usr'
+- Executables such as 'notepad.exe'
+- Full directories such as 'C:\ users\some music file.ogg'     or   '/usr/txt_document.txt'
 
 Dependencies: 
 Tkinter (pip install tk)
 Tkinter tooltips (pip install tkinter-tooltip)
 
 # Instructions: 
-Edit the .pyw file and change the button_list values with the desired button name and action. 
+Edit the Main.pyw file 
 
 0) Ensure tkinter dependencies are installed. 
-1) Go to "button_list" and list:
+1) In the Main.pyw, edit the "button_list" variable and insert a list that has:
     - the button name, 
     - the directory/file that is opened, 
-    - and the description (optional, will show up as tooltip). 
+    - and the description (optional, will show up as tooltip).
+   
+    >['Button name', 'directory or executable', 'Tooltip description'],  
 
-    ['Button name', 'directory or executable', 'Tooltip description'],
+   Repeat for desired number of buttons
 
 2) Change optional desired parameters underneath the list to customize the button attributes such as colors, button dimensions, size, columns, etc. 
 
