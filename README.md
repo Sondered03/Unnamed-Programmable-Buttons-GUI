@@ -33,7 +33,7 @@ Edit the Main.pyw file
 
 # Examples
 
-Example of the basic layout: 
+Example of the default example layout: 
 
 ![python_LqgTqNjdzu](https://github.com/user-attachments/assets/12379886-a10c-4ff6-8230-3c0046d4c472)
 
