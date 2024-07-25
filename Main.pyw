@@ -38,7 +38,7 @@ button_list = [
     #[Name , Directory, Description],
     ['Notepad', 'notepad.exe', 'Opens Notepad'],
     ['Cmd', 'cmd.exe', 'Opens The Command Prompt'],
-    ['Open directory', 'C:']
+    ['Open directory', 'C:'],
     ['Do thing', '',],
     ['Open File', '',],
 ]
